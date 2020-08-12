@@ -1,25 +1,10 @@
 {
   "streams": [
     {
-      "title": "kaunghetnaing",
-      "description": "handsomeboy",
-      "id": 3
-    },
-    {
-      "title": "kaungkaung",
-      "description": "this stream is created by me a",
+      "title": "Kaung's Stream",
+      "description": "creating stream",
       "userId": "107641029934257594866",
-      "id": 4
-    },
-    {
-      "title": "shwepyihein",
-      "description": "jonyan",
-      "id": 6
-    },
-    {
-      "title": "ldflkgkldsfgjldsfgldlkfdjg",
-      "description": "ssssssssssssssssssssssssssssssssssss",
-      "id": 7
+      "id": 1
     }
   ]
 }
